@@ -1,5 +1,11 @@
 #! /usr/bin/env python
 
+###########
+#
+# Multiples of 3 and 5
+# 
+############
+
 def main():
     sum = 0
     for i in range(1,1000):
