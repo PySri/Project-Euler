@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 
-
 ########
 #
 # Even Fibonacci numbers
