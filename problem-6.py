@@ -1,10 +1,10 @@
 #! /usr/bin/env python
 
-#######
+########
 #
 # Sum square difference
 #
-#######
+########
 
 def main():
     target = 100
